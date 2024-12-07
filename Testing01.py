@@ -1,9 +1,8 @@
-import random
-print('Hello World')
-list = [1,2,3]
-random.shuffle(list)
-print(list)
-greetings = 'hello'
-print(greetings, list.pop[2])
+
+a = [1,2,1,3]
+
+b = set(a)
+
+print(b)
 
 
